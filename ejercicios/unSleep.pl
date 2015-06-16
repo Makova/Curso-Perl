@@ -1,9 +1,6 @@
 #!/usr/bin/perl
 
-my $leyendo = "diablocojuelo.txt";
-open my $fh, "<", $leyendo
-	or die "No puedo abrir el fichero $leyendo por $!\n";
-while (<$fh>) {
-	print "$.$_";
-}
-close $fh;
+print "A estas horas, el Estudiante, no creyendo su buen suceso y 
+deshollinando con el vestido y los ojos el zaquizamí...\n";
+
+sleep 10; # Quieto parao ahí

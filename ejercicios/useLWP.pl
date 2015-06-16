@@ -1,4 +1,4 @@
-#!/usr/lib/perl
+#!/usr/bin/perl
 
 # Create a user agent object
       use LWP::UserAgent;
